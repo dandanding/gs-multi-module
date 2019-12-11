@@ -76,6 +76,6 @@
                
             </plugins>
         <!--</pluginManagement>-->
-        <finalName>ROOT</finalName>
+    <!--     <finalName>ROOT</finalName> -->
     </build>
 </project>
