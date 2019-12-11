@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>com.example</groupId>
 			<artifactId>multi-module-library</artifactId>
-			<version>${project.version}</version>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 
 		<dependency>
